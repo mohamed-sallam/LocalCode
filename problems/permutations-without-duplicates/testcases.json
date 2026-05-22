@@ -1,0 +1,27 @@
+[
+    {
+        "type": "simple",
+        "input": ["a"],
+        "output": ["a"]
+    },
+    {
+        "type": "simple",
+        "input": ["ab"],
+        "output": ["ab","ba"]
+    },
+    {
+        "type": "simple",
+        "input": ["abc"],
+        "output": ["abc","acb","bac","bca","cab","cba"]
+    },
+    {
+        "type": "simple",
+        "input": ["abcd"],
+        "output": ["abcd","abdc","acbd","acdb","adbc","adcb","bacd","badc","bcad","bcda","bdac","bdca","cabd","cadb","cbad","cbda","cdab","cdba","dabc","dacb","dbac","dbca","dcab","dcba"]
+    },
+    {
+        "type": "simple",
+        "input": ["xyz"],
+        "output": ["xyz","xzy","yxz","yzx","zxy","zyx"]
+    }
+]

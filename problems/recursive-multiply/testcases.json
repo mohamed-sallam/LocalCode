@@ -1,0 +1,52 @@
+[
+    {
+        "type": "simple",
+        "input": [1, 1],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": [1, 10],
+        "output": 10
+    },
+    {
+        "type": "simple",
+        "input": [2, 3],
+        "output": 6
+    },
+    {
+        "type": "simple",
+        "input": [3, 4],
+        "output": 12
+    },
+    {
+        "type": "simple",
+        "input": [5, 7],
+        "output": 35
+    },
+    {
+        "type": "simple",
+        "input": [8, 9],
+        "output": 72
+    },
+    {
+        "type": "simple",
+        "input": [10, 10],
+        "output": 100
+    },
+    {
+        "type": "simple",
+        "input": [12, 15],
+        "output": 180
+    },
+    {
+        "type": "simple",
+        "input": [7, 13],
+        "output": 91
+    },
+    {
+        "type": "simple",
+        "input": [16, 25],
+        "output": 400
+    }
+]

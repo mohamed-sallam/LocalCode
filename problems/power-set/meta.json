@@ -1,0 +1,7 @@
+{
+    "title": "Power Set",
+    "difficulty": "Medium",
+    "tags": ["Backtracking", "Bit Manipulation"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Backtracking", "Subsets"]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "simple",
+        "input": [[2, 7, 11, 15], 9],
+        "output": [0, 1]
+    },
+    {
+        "type": "simple",
+        "input": [[3, 2, 4], 6],
+        "output": [1, 2]
+    },
+    {
+        "type": "simple",
+        "input": [[3, 3], 6],
+        "output": [0, 1]
+    },
+    {
+        "type": "simple",
+        "input": [[-1, -2, -3, -4, -5], -8],
+        "output": [2, 4]
+    },
+    {
+        "type": "simple",
+        "input": [[0, 4, 3, 0], 0],
+        "output": [0, 3]
+    },
+    {
+        "type": "simple",
+        "input": [[-3, 4, 3, 90], 0],
+        "output": [0, 2]
+    },
+    {
+        "type": "simple",
+        "input": [[1, 2, 3, 4, 5], 9],
+        "output": [3, 4]
+    },
+    {
+        "type": "simple",
+        "input": [[5, 5, 5, 5], 10],
+        "output": [0, 1]
+    }
+]

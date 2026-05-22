@@ -1,0 +1,17 @@
+[
+    {
+        "type": "simple",
+        "input": [2],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": [3],
+        "output": 2
+    },
+    {
+        "type": "simple",
+        "input": [4],
+        "output": 3
+    }
+]

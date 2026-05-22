@@ -1,0 +1,7 @@
+{
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "tags": ["Array", "Hash Table"],
+    "companies": ["Amazon", "Google", "Apple", "Facebook", "Microsoft"],
+    "algorithmic_patterns": ["Hash Map", "Two Pointers"]
+}

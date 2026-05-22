@@ -1,0 +1,42 @@
+[
+    {
+        "type": "simple",
+        "input": ["abcabcbb"],
+        "output": 3
+    },
+    {
+        "type": "simple",
+        "input": ["bbbbb"],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["pwwkew"],
+        "output": 3
+    },
+    {
+        "type": "simple",
+        "input": [""],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": [" "],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["au"],
+        "output": 2
+    },
+    {
+        "type": "simple",
+        "input": ["dvdf"],
+        "output": 3
+    },
+    {
+        "type": "simple",
+        "input": ["anviaj"],
+        "output": 5
+    }
+]

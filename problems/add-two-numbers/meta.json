@@ -1,0 +1,7 @@
+{
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "tags": ["Linked List", "Math", "Recursion"],
+    "companies": ["Amazon", "Microsoft", "Apple", "Google"],
+    "algorithmic_patterns": ["Simulation", "Carry"]
+}

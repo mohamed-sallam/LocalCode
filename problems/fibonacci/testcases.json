@@ -1,0 +1,157 @@
+[
+    {
+        "type": "simple",
+        "input": [0],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": [1],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": [2],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": [3],
+        "output": 2
+    },
+    {
+        "type": "simple",
+        "input": [4],
+        "output": 3
+    },
+    {
+        "type": "simple",
+        "input": [5],
+        "output": 5
+    },
+    {
+        "type": "simple",
+        "input": [6],
+        "output": 8
+    },
+    {
+        "type": "simple",
+        "input": [7],
+        "output": 13
+    },
+    {
+        "type": "simple",
+        "input": [8],
+        "output": 21
+    },
+    {
+        "type": "simple",
+        "input": [9],
+        "output": 34
+    },
+    {
+        "type": "simple",
+        "input": [10],
+        "output": 55
+    },
+    {
+        "type": "simple",
+        "input": [11],
+        "output": 89
+    },
+    {
+        "type": "simple",
+        "input": [12],
+        "output": 144
+    },
+    {
+        "type": "simple",
+        "input": [13],
+        "output": 233
+    },
+    {
+        "type": "simple",
+        "input": [14],
+        "output": 377
+    },
+    {
+        "type": "simple",
+        "input": [15],
+        "output": 610
+    },
+    {
+        "type": "simple",
+        "input": [16],
+        "output": 987
+    },
+    {
+        "type": "simple",
+        "input": [17],
+        "output": 1597
+    },
+    {
+        "type": "simple",
+        "input": [18],
+        "output": 2584
+    },
+    {
+        "type": "simple",
+        "input": [19],
+        "output": 4181
+    },
+    {
+        "type": "simple",
+        "input": [20],
+        "output": 6765
+    },
+    {
+        "type": "simple",
+        "input": [21],
+        "output": 10946
+    },
+    {
+        "type": "simple",
+        "input": [22],
+        "output": 17711
+    },
+    {
+        "type": "simple",
+        "input": [23],
+        "output": 28657
+    },
+    {
+        "type": "simple",
+        "input": [24],
+        "output": 46368
+    },
+    {
+        "type": "simple",
+        "input": [25],
+        "output": 75025
+    },
+    {
+        "type": "simple",
+        "input": [26],
+        "output": 121393
+    },
+    {
+        "type": "simple",
+        "input": [27],
+        "output": 196418
+    },
+    {
+        "type": "simple",
+        "input": [28],
+        "output": 317811
+    },
+    {
+        "type": "simple",
+        "input": [29],
+        "output": 514229
+    },
+    {
+        "type": "simple",
+        "input": [30],
+        "output": 832040
+    }
+]

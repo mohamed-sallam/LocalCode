@@ -1,0 +1,7 @@
+{
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "tags": ["Hash Table", "String", "Sliding Window"],
+    "companies": ["Amazon", "Google", "Facebook", "Microsoft", "Apple"],
+    "algorithmic_patterns": ["Sliding Window", "Two Pointers"]
+}

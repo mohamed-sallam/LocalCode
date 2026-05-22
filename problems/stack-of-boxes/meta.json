@@ -1,0 +1,7 @@
+{
+    "title": "Stack of Boxes",
+    "difficulty": "Hard",
+    "tags": ["Dynamic Programming", "Sorting"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Dynamic Programming", "Longest Increasing Subsequence"]
+}

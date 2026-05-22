@@ -1,0 +1,7 @@
+{
+    "title": "Parenthesis",
+    "difficulty": "Medium",
+    "tags": ["Dynamic Programming", "Backtracking", "String"],
+    "companies": ["Google", "Amazon", "Facebook"],
+    "algorithmic_patterns": ["Backtracking", "Catalan Numbers"]
+}

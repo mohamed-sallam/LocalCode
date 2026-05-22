@@ -1,0 +1,17 @@
+[
+    {
+        "type": "simple",
+        "input": [1],
+        "output": [["Q"]]
+    },
+    {
+        "type": "simple",
+        "input": [4],
+        "output": [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
+    },
+    {
+        "type": "simple",
+        "input": [2],
+        "output": []
+    }
+]

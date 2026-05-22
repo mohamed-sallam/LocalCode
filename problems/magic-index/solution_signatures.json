@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number[]} nums\n * @return {number}\n */\nvar findMagicIndex = function(nums) {\n    \n};"
+}

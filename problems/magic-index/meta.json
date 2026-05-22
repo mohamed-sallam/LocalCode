@@ -1,0 +1,7 @@
+{
+    "title": "Magic Index",
+    "difficulty": "Medium",
+    "tags": ["Binary Search", "Array", "Divide and Conquer"],
+    "companies": ["Google", "Amazon", "Microsoft"],
+    "algorithmic_patterns": ["Binary Search", "Divide and Conquer"]
+}

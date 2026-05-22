@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number[][]} image\n * @param {number} sr\n * @param {number} sc\n * @param {number} newColor\n * @return {number[][]}\n */\nvar floodFill = function(image, sr, sc, newColor) {\n    \n};"
+}

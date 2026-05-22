@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number} n\n * @return {number}\n */\nvar countWays = function(n) {\n    \n};"
+}

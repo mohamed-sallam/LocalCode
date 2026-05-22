@@ -1,0 +1,7 @@
+{
+    "title": "Boolean Evaluation",
+    "difficulty": "Hard",
+    "tags": ["Dynamic Programming", "Recursion", "Memoization"],
+    "companies": ["Google", "Facebook", "Amazon"],
+    "algorithmic_patterns": ["Dynamic Programming", "Divide and Conquer"]
+}

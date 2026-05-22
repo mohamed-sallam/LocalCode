@@ -1,0 +1,7 @@
+{
+    "title": "Permutations without Duplicates",
+    "difficulty": "Medium",
+    "tags": ["Backtracking", "Array"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Backtracking", "Permutations"]
+}

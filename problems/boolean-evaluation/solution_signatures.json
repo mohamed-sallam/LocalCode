@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {string} expression\n * @param {boolean} result\n * @return {number}\n */\nvar countEval = function(expression, result) {\n    \n};"
+}

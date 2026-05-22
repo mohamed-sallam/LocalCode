@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number[][]} boxes\n * @return {number}\n */\nvar stackOfBoxes = function(boxes) {\n    \n};"
+}

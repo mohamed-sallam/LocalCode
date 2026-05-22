@@ -1,0 +1,17 @@
+[
+    {
+        "type": "simple",
+        "input": [1],
+        "output": [["A","C"]]
+    },
+    {
+        "type": "simple",
+        "input": [2],
+        "output": [["A","B"],["A","C"],["B","C"]]
+    },
+    {
+        "type": "simple",
+        "input": [3],
+        "output": [["A","C"],["A","B"],["C","B"],["A","C"],["B","A"],["B","C"],["A","C"]]
+    }
+]

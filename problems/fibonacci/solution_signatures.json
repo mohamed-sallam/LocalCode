@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number} n\n * @return {number}\n */\nvar fibonacci = function(n) {\n    \n};"
+}

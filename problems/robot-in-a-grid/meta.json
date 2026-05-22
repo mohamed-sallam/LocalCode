@@ -1,0 +1,7 @@
+{
+    "title": "Robot In a Grid",
+    "difficulty": "Medium",
+    "tags": ["Dynamic Programming", "Backtracking", "Matrix"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Dynamic Programming", "Path Finding"]
+}

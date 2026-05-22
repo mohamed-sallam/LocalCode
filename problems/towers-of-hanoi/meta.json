@@ -1,0 +1,7 @@
+{
+    "title": "Towers of Hanoi",
+    "difficulty": "Hard",
+    "tags": ["Recursion", "Stack"],
+    "companies": ["Google", "Amazon", "Microsoft"],
+    "algorithmic_patterns": ["Divide and Conquer", "Recursion"]
+}

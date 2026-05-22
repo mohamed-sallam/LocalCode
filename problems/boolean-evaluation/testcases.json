@@ -1,0 +1,77 @@
+[
+    {
+        "type": "simple",
+        "input": ["1^0|0|1", false],
+        "output": 2
+    },
+    {
+        "type": "simple",
+        "input": ["0&0&0&1^1|0", true],
+        "output": 10
+    },
+    {
+        "type": "simple",
+        "input": ["1", true],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["0", false],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["1", false],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": ["0", true],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": ["1&0", true],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": ["1&0", false],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["1|0", true],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["1|0", false],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": ["1^0", true],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["1^0", false],
+        "output": 0
+    },
+    {
+        "type": "simple",
+        "input": ["1&1", true],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["0|0", false],
+        "output": 1
+    },
+    {
+        "type": "simple",
+        "input": ["1^1", false],
+        "output": 1
+    }
+]

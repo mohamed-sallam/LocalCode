@@ -1,0 +1,17 @@
+[
+    {
+        "type": "simple",
+        "input": ["aab"],
+        "output": ["aab","aba","baa"]
+    },
+    {
+        "type": "simple",
+        "input": ["abc"],
+        "output": ["abc","acb","bac","bca","cab","cba"]
+    },
+    {
+        "type": "simple",
+        "input": ["aaa"],
+        "output": ["aaa"]
+    }
+]

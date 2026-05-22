@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number[][]} obstacleGrid\n * @return {number[][]}\n */\nvar uniquePathsWithObstacles = function(obstacleGrid) {\n    \n};"
+}

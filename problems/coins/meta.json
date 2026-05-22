@@ -1,0 +1,7 @@
+{
+    "title": "Coins",
+    "difficulty": "Medium",
+    "tags": ["Dynamic Programming", "Recursion"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Dynamic Programming", "Coin Change"]
+}

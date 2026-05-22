@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>LocalCode - Offline Problem Solving Platform</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--
+    <!-- CodeMirror CSS 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/default.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/hint/show-hint.min.css">
+    
+    <!-- CodeMirror JS 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/javascript/javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/edit/closebrackets.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/edit/matchbrackets.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/selection/active-line.min.js"></script>
+    
+    <!-- JavaScript auto-completion (must load after CodeMirror core) 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/hint/show-hint.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/hint/javascript-hint.min.js"></script>
+    
+    <!-- Marked.js for Markdown
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    -->
+    <!-- CodeMirror CSS -->
+    <link rel="stylesheet" href="lib/codemirror.min.css">
+    <link rel="stylesheet" href="lib/dracula.min.css">
+    <link rel="stylesheet" href="lib/show-hint.min.css">
+
+    <!-- CodeMirror JS -->
+    <script src="lib/codemirror.min.js"></script>
+    <script src="lib/javascript.min.js"></script>
+    <script src="lib/closebrackets.min.js"></script>
+    <script src="lib/matchbrackets.min.js"></script>
+    <script src="lib/active-line.min.js"></script>
+
+    <!-- JavaScript auto-completion -->
+    <script src="lib/show-hint.min.js"></script>
+    <script src="lib/javascript-hint.min.js"></script>
+
+    <!-- Marked.js -->
+    <script src="lib/marked.min.js"></script>
+
+    
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <nav class="controls">
+        <div class="controls-left">
+            <div class="logo">LocalCode</div>
+            <select name="problems" id="problems">
+                <option value="">Select a problem...</option>
+            </select>
+            <button class="btn btn-primary" id="start-timer">Start Solving</button>
+            <span class="stopwatch" id="stopwatch">00:00:00</span>
+        </div>
+        <div class="controls-right">
+            <button class="btn btn-secondary" id="run-samples">Run Samples</button>
+            <button class="btn btn-success" id="submit">Submit</button>
+            <button class="btn btn-icon" id="theme-toggle" title="Toggle Theme">🌙</button>
+        </div>
+    </nav>
+
+    <main class="main-content">
+        <div class="panel-container">
+            <!-- Problem Statement Panel -->
+            <div class="panel problem-panel" id="problem-panel">
+                <div class="panel-content" id="problem-content">
+                    <p class="placeholder">Select a problem to get started...</p>
+                </div>
+            </div>
+
+            <!-- Resize Handle -->
+            <div class="resize-handle vertical" id="vertical-resize"></div>
+
+            <!-- Right Side Container -->
+            <div class="right-container">
+                <!-- Code Editor Panel -->
+                <div class="panel editor-panel" id="editor-panel">
+                    <div class="panel-content">
+                        <textarea id="code-editor"></textarea>
+                    </div>
+                </div>
+
+                <!-- Horizontal Resize Handle -->
+                <div class="resize-handle horizontal" id="horizontal-resize"></div>
+
+                <!-- Results Panel -->
+                <div class="panel results-panel" id="results-panel">
+                    <div class="tabs-header" id="tabs-header">
+                        <!-- Tabs will be dynamically generated -->
+                    </div>
+                    <div class="panel-content">
+                        <div class="tabs-content" id="tabs-content">
+                            <!-- Tab content will be dynamically generated -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modals -->
+    <div class="modal" id="solution-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Solution</h3>
+                <button class="modal-close" id="close-solution">&times;</button>
+            </div>
+            <div class="modal-body" id="solution-content">
+                <!-- Solution content will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>

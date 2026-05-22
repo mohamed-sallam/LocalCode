@@ -1,0 +1,7 @@
+{
+    "title": "Triple Steps",
+    "difficulty": "Easy",
+    "tags": ["Dynamic Programming", "Recursion"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Dynamic Programming", "Climbing Stairs"]
+}

@@ -1,0 +1,3 @@
+{
+    "template": "/**\n * @param {number} n\n * @return {string[][]}\n */\nvar hanoi = function(n) {\n    \n};"
+}

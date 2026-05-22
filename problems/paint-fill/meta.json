@@ -1,0 +1,7 @@
+{
+    "title": "Paint Fill",
+    "difficulty": "Medium",
+    "tags": ["Depth-First Search", "Breadth-First Search", "Matrix"],
+    "companies": ["Amazon", "Google", "Microsoft"],
+    "algorithmic_patterns": ["Flood Fill", "DFS", "BFS"]
+}

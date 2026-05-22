@@ -1,0 +1,7 @@
+{
+    "title": "Fibonacci",
+    "difficulty": "Easy",
+    "tags": ["Dynamic Programming", "Recursion", "Math"],
+    "companies": ["Amazon", "Google", "Microsoft", "Apple"],
+    "algorithmic_patterns": ["Dynamic Programming", "Memoization"]
+}
